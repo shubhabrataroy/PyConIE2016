@@ -1,0 +1,5 @@
+This tutorial is intended to introduce Keras with some real life example. There are two examples:
+
+1) 'KerasImgRecognition' does image classificattion of CIFAR 10 dataset. We have further considered only the vehicle classes to be more specific. There is an accompanying script (LoadModelAndTest) that shows how to load the saved model in Keras and use for prediction.
+
+2) 'KerasSeqPrediction' does predict a time series over a time window. It works on the bike_sharing_day csv which is also attached in this repository.
