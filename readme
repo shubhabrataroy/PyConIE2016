@@ -4,6 +4,8 @@ This tutorial is intended to introduce Keras with some real life example. There 
 
 2) 'KerasSeqPrediction' does predict a time series over a time window. It works on the bike_sharing_day csv which is also attached in this repository.
 
+The scripts are created with the help of documentation at https://github.com/fchollet/keras. Copyright and licensing information about the software has been copied from there.
+
 
 
 COPYRIGHT
